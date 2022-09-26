@@ -108,5 +108,12 @@ body {
 @media (max-width: 992px) {
   #footer {
     margin-top: 150px;
+    margin-left: 5%!important;
+    margin-right: 5%!important;
+
+  }
+  .feature-item{
+    margin-left: 5%!important;
+    margin-right: 5%!important;
   }
 }
