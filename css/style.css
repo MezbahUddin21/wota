@@ -8,7 +8,7 @@ body {
 }
 
 #hero-section{
-  background: url(./img/wave.svg);
+  background: url(../img/wave.svg);
   background-size: cover;
 }
 
@@ -64,7 +64,7 @@ body {
 
 
 #promotion-section{
-  background: url(./img/promotion.svg);
+  background: url(../img/promotion.svg);
   background-size: cover;
   min-height: 1000px;
 }
