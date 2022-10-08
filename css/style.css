@@ -7,6 +7,11 @@ body {
   background-color: #000000!important;
 }
 
+section {
+  width : 100%;
+  overflow: hidden;
+}
+
 
 /* preloader */
 #preloader{
